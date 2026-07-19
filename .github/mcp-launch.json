@@ -1,0 +1,11 @@
+{
+  "setup": [],
+  "command": "uv",
+  "args": [
+    "run",
+    "--extra",
+    "mcp",
+    "fli-mcp"
+  ],
+  "env": {}
+}
